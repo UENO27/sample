@@ -26,7 +26,6 @@ class user_name{
 	}
 	System.out.println("Heads: " + t +", Tails: "+ f);
 	if(t > f)System.out.println(Name + " won!");
-	if(t < f)System.out.println(Name + " lost.");
-	    
+	if(t < f)System.out.println(Name + " lost.");    
     }
 }
